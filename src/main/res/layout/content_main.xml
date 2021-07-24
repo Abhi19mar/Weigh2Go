@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    android:background="@drawable/wallpaper"
+    tools:showIn="@layout/activity_main">
+
+
+    <Spinner
+        android:id="@+id/workouttype"
+        android:spinnerMode="dialog"
+        android:layout_width="150dp"
+        android:layout_marginLeft="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="113dp"
+        android:entries="@array/workout_types" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(Select the body part from the drop down menu below)"
+        android:layout_marginTop="80dp"
+        android:textStyle="italic"
+        android:textSize="15dp"
+        android:textColor="#ffa500"
+        />
+
+    <ImageView
+        android:layout_width="135dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginLeft="190dp"
+        android:src="@drawable/cover1" />
+
+    <ImageView
+        android:layout_width="165dp"
+        android:layout_height="125dp"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="550dp"
+        android:src="@drawable/cover2" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cover3"
+        android:layout_marginTop="380dp"
+        />
+
+
+    <ImageView
+        android:layout_width="366dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="400dp"
+        android:src="@drawable/cover4" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Weigh2Go \n A complete solution for your fitness!\n"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:textColor="#a4c639"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="109dp"
+        android:layout_marginTop="148dp"
+        android:text="Click here to start"
+
+
+
+
+
+
+        />
+
+
+
+
+
+
+
+</RelativeLayout>

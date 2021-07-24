@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Triceps">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/triceps1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:textAlignment="center"
+            android:text="If you think that weights are the only way to develop strong triceps ? Think again. You can build your triceps – without lifting a single barbell or dumbbell. You don't need the gym for an effective tricep workout, which is welcome news with the coronavirus pandemic ongoing."
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1.NARROW PUSH-UP"
+            android:textStyle="bold"
+            android:layout_marginTop="120dp"
+            />
+
+        <ImageView
+            android:layout_width="352dp"
+            android:layout_height="524dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/tricep1" />
+        <TextView
+            android:id="@+id/triceps2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="320dp"
+            android:textAlignment="center"
+            android:text="\n\n\n\n\n\n\nA narrow push-up, with hands closer together than a standard pushup, puts more tension on your triceps.\n\n\n\ta)Start on the floor and place your hands directly under your chest, closer than shoulder-width apart.\n\tb)Begin lowering your body by bending your elbows, keeping your core tight and your back flat, until your chest grazes the floor. Keep your elbows tucked in toward your body.\t\nc)Extend your elbows and push your body back up, using your triceps and chest.\n\td)Repeat for as many reps as possible, for 3 sets."
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\n\n\n\n2.TRICEPS PUSH-UP WITH ELEVATED FEET "
+            android:layout_marginTop="600dp"
+            android:layout_marginLeft="55dp"
+            />
+
+        <ImageView
+            android:layout_width="316dp"
+            android:layout_height="212dp"
+            android:layout_marginTop="700dp"
+            android:src="@drawable/tricep7" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="By doing a triceps push-up with your feet elevated on a bench or a medicine ball, you’ll put even more weight on your triceps, challenging them more.\n\n\n\tTo get moving:\n\n\ta)Start in a plank position.\n\tb)Move your feet to position them with your toes on top of a bench or swiss ball.\n\tc)Keeping your arms and elbows tight to your sides, lower yourself down as far as you can go, then return to start.\n\td)Complete as many reps as you can in three sets."
+            android:layout_marginTop="930dp"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3.DIPS"
+            android:layout_marginTop="1180dp"
+
+            />
+
+
+        <ImageView
+            android:layout_width="390dp"
+            android:layout_height="252dp"
+            android:layout_marginTop="1250dp"
+            android:src="@drawable/tricep8" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="In this version, the knees are bent, making the exercise easier. Extending your feet out will increase the intensity of the exercise.\n\n\n\ta)Sit on a chair or bench with hands just outside of the hips and the knees bent or the legs extended straight out (harder).\n\tb)Lift up onto the hands and, keeping the hips very close to the chair or bench, bend the elbows, lowering down until they're at about 90 degrees.\n\tc)Keep the elbows pointing behind you, the shoulders down and the abs engaged.\n\td)Push back to start and repeat for 1-3 sets of 8-16 reps.\n\te)Avoid this exercise if you feel any pain in the shoulders."
+            android:layout_marginTop="1500dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\t\t\t\t\t\t\t4.BENCH DIPS"
+            android:layout_marginTop="1800dp"
+            android:layout_marginLeft="69dp"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="267dp"
+            android:layout_marginTop="1800dp"
+            android:src="@drawable/tricep9" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="2100dp"
+            android:text="\ta)Lower your body below the level of the bench. Stop when your elbows reach 90 degrees (don’t let your glutes touch down to the floor).\n\tb)Avoid allowing your elbow to migrate away from your side. Keep your elbows directed backwards during both the lowering and raising phases\n\tc)Lower your torso vertically, keeping your back close to the bench by bending your elbows backwards and controlling the extension of the triceps.\n\td)Look for your body to remain close to the bench; your weight should primarily be translated through your hands, not your feet.\n\te)Avoid rounding your back, sliding your hips away from the bench.\n\tf)Your spine should descent in a straight line, parallel to the bench.\n\tg)Vary the width of your hands until you find the position where your triceps muscles work the most."
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2450dp"
+            android:textStyle="bold"
+            android:text="5.NARROW INCLINED BENCH PRESS-UP"
+            android:layout_marginLeft="50dp"
+            />
+
+        <ImageView
+            android:layout_width="820dp"
+            android:layout_height="261dp"
+            android:layout_marginTop="2470dp"
+            android:src="@drawable/tricep5" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2800dp"
+            android:text="The key to incline pushups is to make sure that your body is in a straight line while you’re in plank position. One common mistake is setting yourself up too close to the box, which can cause your back to arch.\nYou’ll also want to make sure that you perform this exercise on a sturdy surface and away from objects that can slide underneath you. An ideal setup is having an exercise box on rubber workout flooring.\nTo perform an incline pushup:\n\n\ta)Stand in front of your box or bench, then squat or bend down and place both hands on either side of it with your fingers pointing forward. Your hands should be about shoulder-width apart. If you need a wider piece of equipment to safely elevate yourself, don’t be shy about swapping it out.\n\tb)Once your hands are in the right position, step your body back into a plank position, one leg at a time. Make sure your body is in a straight line, your head is aligned with your spine, and that your lower back isn’t sagging before continuing. Looking a few inches ahead of you, rather than down at the box, can help keep your body straight.\n\tc)Next, bend your arms to help you slowly lower your chest toward the box. Straighten your arms to bring yourself back up into a straight line.\n\td)Repeat 10 times for 3 sets to start. You can increase the repetitions within each set as you get stronger.\n\n"
+            android:textAlignment="center"
+            />
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+</ScrollView>

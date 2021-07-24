@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Chest">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/chest1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textAlignment="center"
+        android:text="If you think that weights are the only way to develop a strong, muscular chest? Think again. You can build your chest – without lifting a single barbell or dumbbell. You don't need the gym for an effective chest workout, which is welcome news with the coronavirus pandemic ongoing."
+
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.WIDE PRESS-UP"
+            android:textStyle="bold"
+            android:layout_marginTop="169dp"
+            android:layout_marginLeft="110dp"
+            />
+
+        <ImageView
+            android:layout_width="258dp"
+            android:layout_height="138dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="210dp"
+            android:src="@drawable/image1" />
+    <TextView
+        android:id="@+id/chest2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perform a standard press-up, but with your hands placed wider than shoulder-width apart."
+        android:layout_marginTop="325dp"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t2.ALTERNATING SHUFFLE PRESS-UP"
+            android:textStyle="bold"
+            android:layout_marginTop="350dp"
+            />
+
+        <ImageView
+            android:layout_width="266dp"
+            android:layout_height="150dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="430dp"
+            android:src="@drawable/image2" />
+
+        <TextView
+            android:id="@+id/chest3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="555dp"
+            android:text="Start in the classic press-up position. Move your right hand to the left until your two hands are next to each other. Slide your left hand further left until your hands are shoulder-width apart again. Perform a press-up and repeat, moving to the right. That's two press-ups, but only one rep." />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3.DIAMOND PRESS-UP"
+            android:layout_marginTop="660dp"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:layout_width="269dp"
+            android:layout_height="127dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="750dp"
+            android:src="@drawable/image3" />
+        <TextView
+            android:id="@+id/chest4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="900dp"
+            android:text="Perform a press-up with your hands close enough for the tips of your thumbs and index fingers to touch. That's the diamond shape."
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="930dp"
+            android:text="\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\4.ONE ARM PRESS-UP"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:layout_width="271dp"
+            android:layout_height="149dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="1000dp"
+            android:src="@drawable/image4" />
+        <TextView
+            android:id="@+id/chest5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1200dp"
+            android:text="Perform a press-up with your right hand on the floor and your left hand on the box. Switch arms and repeat. That's one rep."
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t5.CROSS-OVER BOX PRESS-UP"
+            android:layout_marginTop="1230dp"
+            android:textStyle="bold"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="168dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="1300dp"
+            android:src="@drawable/image5" />
+
+        <TextView
+            android:id="@+id/text6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1500dp"
+            android:text="Do a one-arm press-up with your left hand on the box. From the starting position, lift your right hand to beside your left. Move your left hand down to the floor, with hands shoulder-width apart. Do a press-up. That's one rep!\n\n\n"
+            />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+</ScrollView>

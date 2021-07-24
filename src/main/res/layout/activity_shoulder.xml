@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Shoulder">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"
+        android:text="If you think that weights are the only way to develop big and solid shoulders ? Think again. You can build your shoulders – without lifting a single barbell or dumbbell. You don't need the gym for an effective shoulder workout, which is welcome news with the coronavirus pandemic ongoing."
+
+
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1.INCLINED PUSH-UPS"
+            android:textStyle="bold"
+            android:layout_marginTop="100dp"
+            />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sh1"
+        android:layout_marginTop="190dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Having your upper body higher than your lower body in this movement is going to recruit more of the anterior deltoid. Make sure that your core is engaged and your hips, shoulders and feet are in one line You want the edge of whatever surface you’re doing this exercise on to come right underneath your chest.\n\nSets: 2 – 4,\t\t\t Reps: 16,12,10,8."
+        android:layout_marginTop="390dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="\t\t\t\t\t\t\t\t\t\t\t\t2.PLANK TO DOWN DOG"
+        android:layout_marginTop="550dp"
+        />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sh2"
+        android:layout_marginTop="600dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is a great move for shoulder flexibility — especially the rotator cuff. You don’t need to perform this exercise quickly, take your time.This is actually a bodyweight warm-up exercise before you start your shoulder training.\n\nSets: 2-3 ,\t\tReps:20 each"
+        android:layout_marginTop="750dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t\t3.PIKE PUSH-UPS"
+        android:layout_marginTop="900dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sh3"
+        android:layout_marginTop="1000dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This exercise is a step on your way to mastering a handstand push-up and is great for the anterior as well as the medial deltoids. Make sure that you look at your legs (not your hands) while keeping your spine neutral and the crown of your head pointing towards the ground\n\nSets: 2- 4,\t\t\tReps: 12,10,till failure"
+        android:layout_marginTop="1250dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="\t\t\t\t\t\t\t\t\t\t4.ELEVATED PIKE PUSH-UPS"
+        android:layout_marginTop="1400dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sh4"
+        android:layout_marginTop="1400dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Elevate your legs on a step, bench, curb, chair…whatever. Same rules apply: keep that neutral spine position and the crown of your head pointing towards the ground. If you’re attempting to do this for the first time alone, put a pillow under your head just in case\n\nSets: 2-3, \t\t\tReps: 12,10,8"
+        android:layout_marginTop="1800dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5.Wall Handstand"
+        android:layout_marginTop="1980dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sh5"
+        android:layout_marginTop="2000dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Plant your hands, and kick up into a handstand hold with your feet against the wall; if you can’t quite kick yourself up, have a gym partner help you lift your legs into a starting position. You can also try getting a moving start, and step into the hand-plant as you kick up against the wall. Make sure your fingers are pointed toward the wall, not to your sides. Don’t let your elbows hyperextend.\n\nStart by attempting 30-second holds.\n Rest at least 1 minute between attempts.\n\n\n"
+        android:layout_marginTop="2300dp"
+        />
+    </RelativeLayout>
+
+
+
+</ScrollView>

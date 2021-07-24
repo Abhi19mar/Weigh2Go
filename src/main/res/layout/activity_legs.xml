@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Legs">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:textAlignment="center"
+            android:text="If you think that weights are the only way to develop muscular legs ? Think again. You can build your legs – without lifting a single barbell or dumbbell. You don't need the gym for an effective legs workout, which is welcome news with the coronavirus pandemic ongoing."
+
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.SQUAT"
+            android:textStyle="bold"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="145dp"
+            />
+
+        <ImageView
+            android:layout_width="336dp"
+            android:layout_height="230dp"
+            android:layout_marginTop="180dp"
+            android:src="@drawable/leg1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="450dp"
+            android:text="When squatting, stand with feet either hip- or shoulder-width apart, then drive the hips back as if you were going to sit down on a seat behind you. As the hips drive back, allow the knees to bend until you reach your desired depth. It’s important to keep the shins vertical at the bottom of the squat to keep the knees from passing the toes.\n\nSets: 3-4 ,\t\t\treps: 25,25,20,12"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2.LUNGES"
+            android:layout_marginTop="650dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="650dp"
+            android:src="@drawable/leg2"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="From a standing position, step one leg backwards and bend both knees to a 90° angle. It’s wise to pause in this position to make sure your form is correct. Make sure the shin on your front leg is vertical, and the knee is not passing the toe. Also be aware of your posture, and make sure your torso is tall and vertical, as many people have a tendency to hinge or lean forward. When you’re ready to switch legs, drive the heal of the front foot down into the the ground and stand up to your original position.\n\nSets:2-4 ,\t\t\treps:25,22,18,16"
+            android:layout_marginTop="1000dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3.GLUTE BRIDGE"
+            android:layout_marginTop="1230dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="930dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginRight="6dp"
+            android:src="@drawable/leg3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start by lying down on the floor on your back with a bent knee position, and your feet flat on the ground about shoulder-width apart. Push the heels down into the ground while raising the hips off the ground. At the top, squeeze the glutes and keep the abdominals tight to prevent arching in the lower back. Make sure the shins are vertical, then lower your hips back down to their original position.\n\nSets 3,\t\t\treps 25 each"
+            android:layout_marginTop="1500dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4.SUMO SQUAT"
+            android:layout_marginTop="1750dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/leg4"
+            android:layout_marginTop="1690dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stand with your feet wider than shoulder-width apart, with toes turned out slightly (like a sumo wrestler). While maintaining upright posture, allow the hips to drop down toward the heels, and the knees to drive out. It’s still important to keep the knees behind the toes and the shins vertical at the bottom of your squat. To stand up, push the heels down and out (like you are trying to rip the floor apart), and push your hips forward to a fully extended position.\n\nSets:2-4,\t\t\treps: 20,20,18,12"
+            android:layout_marginTop="2150dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5.JUMP SQUAT"
+            android:layout_marginTop="2400dp"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="445dp"
+            android:layout_marginTop="2350dp"
+            android:src="@drawable/leg5" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Simply drive the hips back as you would for the squat, then add an explosive jump straight up, landing softly and quietly. Your landing position should look exactly like your starting position.\n\nSets:2-3 \t\t\treps:12 each\n\n\n"
+            android:layout_marginTop="2750dp"
+            />
+    </RelativeLayout>
+</ScrollView>
+
+
+

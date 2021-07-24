@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Abs">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:text="If you think that weights are the only way to develop a ripped six-pack? Think again. You can build your abs – without lifting a single barbell or dumbbell. You don't need the gym for an effective abs workout, which is welcome news with the coronavirus pandemic ongoing."
+
+
+
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\n\n\t\t\t\t\t1.PLANKS"
+            android:textStyle="bold"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="100dp"
+            />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/abs1"
+        android:layout_marginTop="160dp"
+        android:layout_marginLeft="50dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="gravity"
+        android:text="Why: It stimulates more abdominal activity than a regular crunch and works the muscles in your back as well.\n\nHow: Supporting yourself on your forearms and the balls of your feet, bridge up and position your body in one straight line. Pull your abs in tight and hold for 30-60 seconds.\n\nKick it up a notch: From the plank position, reach forward with your right hand, hold for a count and slowly return to the starting position.\n\t\t\t\t\tDo the same with your left hand and repeat.."
+        android:layout_marginTop="320dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="\t\t\t\t2.REVERSE CRUNCHES"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="550dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/abs2"
+        android:layout_marginTop="580dp"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Why: Engage your lower abdomen and obliques with this move.\n\nHow: Lie on your back with your hands tucked under your bum and your knees bent. Bring your legs up until they form a 90 degree angle from your torso. Do a pelvic tilt and pull your knees in towards your chest, squeeze and slowly lower to starting position. Aim for 15-20 reps.\n\nKick it up a notch: Hold a weight over your head."
+        android:layout_marginTop="950dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="3.SIDE PLANK"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="1130dp"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="201dp"
+        android:layout_marginTop="1180dp"
+        android:src="@drawable/abs3"
+        android:textAlignment="center" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Why: Side planks not only torch your obliques, they also stimulate and tone your glutes, quads, hamstrings, inner/outer thighs and your upper body.\n\nHow: Lie on your side with your forearm perpendicular to your body and one foot stacked over the other. Bridge your hip up and hold for 30-60 seconds while maintaining a straight line with your body.\n\nKick it up a notch: Raise your top leg so that it’s parallel to the ground"
+        android:layout_marginTop="1450dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="4.VERTICAL LEG CRUNCH"
+        android:layout_marginTop="1650dp"
+        android:layout_marginLeft="110dp"
+        />
+
+        <ImageView
+            android:layout_width="375dp"
+            android:layout_height="223dp"
+            android:layout_marginTop="1700dp"
+            android:src="@drawable/abs4"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1950dp"
+            android:text="Why: It stimulated 116 percent more abdominal activity in the study’s participants than the traditional crunch.\n\nHow: Lie on your back with your legs up in the air, knees slightly bent. Try to touch your ankles with your hands by contracting just your abs, but keep your chin off your chest. Repeat for 12-16 reps.\n\nKick it up a notch: Reach towards your toes and hold the position for 15 seconds for a V-sit." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="5.BICYCLE CRUNCH"
+        android:layout_marginTop="2150dp"
+        android:layout_marginLeft="110dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/abs5"
+        android:layout_marginTop="1850dp"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Why: In the San Diego study, this exercise was the second highest in terms of strengthening the obliques in participants. It also stimulates more abdominal activity than the traditional crunch including your lower stomach and obliques.\n\nHow: Lying on your back, bring your knees up to form a 90 degree angle and keep your hands by your temples. Crunch up and twist across the body while simultaneously performing a bicycle motion with your legs. For example, if you crunch up and to the right you should draw your right knee in and vice versa.\n\t\t\t\t\tRepeat for 20-30 reps total"
+        android:layout_marginTop="2500dp"
+        />
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ScrollView>

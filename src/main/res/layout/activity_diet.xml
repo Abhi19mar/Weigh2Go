@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dietcover"
+    tools:context=".Diet">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="DIET PLAN FOR BODYBUILDING"
+            android:textSize="30dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/diet1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contents:\n\n
+1. What Should You Consume for Bodybuilding?\n
+2.Full Day Bodybuilding Diet Plan for Muscle Building\n
+3.Generic Indian Diet Plan for Bodybuilding\n
+4.Indian Vegetarian Bodybuilding Diet Plan\n"
+            android:layout_marginTop="620dp"
+            android:textSize="15dp"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:layout_marginLeft="30dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bodybuilding is an art. Perhaps the human body is more complex and bodybuilding is not a child's play. Every man on the earth has dreamt of building their musculature like Arnold Schwarzenegger. Building your body doesn't happen in overnight, it is a continuous process. You work for 24-hour days for months and years. Building muscles are not as easy as a weight loss. You need to stay motivated and follow a healthy meal plan along with workouts.\n\nWhen it comes to meal plan for building your body, you should be very cautious with what you are putting into your body. For a good workout, your body needs more energy and that comes from carbs and proteins. Therefore you should eat a balanced meal to get the essential nutrients. Thanks to the Indian foods, which are packed with adequate vitamins and minerals required to build the muscle mass. This article will outline the Indian diet plan for bodybuilding.\n"
+            android:layout_marginTop="900dp"
+            android:textSize="15dp"
+            android:textColor="#006400"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What Should You Consume for Bodybuilding?"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginTop="1300dp"
+            android:textAlignment="center"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1220dp"
+            android:src="@drawable/diet2" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1590dp"
+            android:src="@drawable/diet3" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2200dp"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textColor="#a020f0"
+            android:text="To get the muscle mass, your body requires a special diet. Generally, your body requires more calories to support training and increase muscle growth. Make sure you get 50-60% of carbs, 30–40% of protein and 10–15% of fats.\n\n1.) Carbs: sweet potato, quinoa, brown rice, chapattis, oats, breads and banana.\n2.) Proteins: low-fat paneer, lentils(green, black, black beans), low-fat milk(if not lactose intolerant), curd, egg white, cottage cheese, soya chunks, soya bean, chickpeas, soya chunks curry, pigeon pea etc.\n3.) Fats: peanuts or peanut butter(protein source as well), almonds, walnuts, olive oil, and coconut oil.\n4.) Vitamins and minerals: whole seasonal fruits(avoid packed fruit juices and sugar concentrated fruit juices), green veggies, and seasonal salad."
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2400dp"
+            android:src="@drawable/diet4"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2700dp"
+            android:src="@drawable/diet6"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:text="Check your daily maintenance calories to know how much calories your body requires to maintain or increase your current body weight. Do keep in mind that calculating BMR is different for male and female as males have a higher percentage of lean body weight than females.\n\nIf you don't know the calculation of macros, read the below article to learn the calculation protein, carbs and fat intake for bodybuilding.\n\nDo not eat too much at a time. It is better to eat in small portions every two to three hours. Try drink more water than usual, as exercises cause dehydration. But there is no specified limit of water intake for bodybuilding, because metabolic rate and the amount of sweating is different for everyone. Ensure you take multivitamins and don't stretch cold muscles. If you want you can always stretch after your workout."
+            android:layout_marginTop="3300dp"
+            android:textColor="#2f4f4f"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Full Day Indian Bodybuilding Diet Plan for Muscle Building"
+            android:layout_marginTop="3700dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="If you are fervent about what to eat and how to eat, we will help you! Here we will present you the best Indian foods for three categories- General, Vegetarian, and Non-vegetarian. A combination of good diet and healthy habits are ideal to gain the right muscle mass."
+            android:layout_marginTop="3800dp"
+            android:textSize="15dp"
+            android:textColor="#b22222"
+            android:textAlignment="center"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="\tGeneric Indian Diet Plan for Bodybuilding\n\n"
+            android:layout_marginTop="3950dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/diet7"
+            android:layout_marginTop="3850dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.) Meal 1 (Early Morning): First thing after waking up- Green tea + Honey will give you the morning boost.\n2.) Meal 2 (Breakfast): Whey protein shake + 1 banana + 1/4 cup nuts + oats + milk\n3.) Meal 3 (Brunch): 3 eggs whites and 1 whole egg\n4.) Meal 4 (Lunch): Broccoli + chicken breast + horse gram + 2 chapati\n5.) Meal 5 (Snacks): Boiled potato or banana + 1 egg white + whey protein shake\n6.) Meal 6 (Dinner): Anything veg and non-veg thali in less quantity + 1/4 cup sprouted mung bean"
+            android:layout_marginTop="4450dp"
+            android:textSize="15dp"
+            android:textColor="#191970"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Indian Vegetarian Bodybuilding Diet Plan"
+            android:layout_marginTop="4700dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#8b4513"
+            android:textSize="15dp"
+            android:text="1.) Meal 1 (Early Morning): 1 Glass milk + Apple or any fruit\n2.) Meal 2 (Breakfast): Boiled Rajma (kidney beans) along with onion, garlic and tomato tossed in it + Whey protein shake.3.) Meal 3 (Brunch): Sprouted moong dal Salad + 1/4 Cup nuts\n4.) Meal 4 (Lunch): One medium cup of brown rice with beans, and a toast made of whole grains. + Horse gram curry\n5.) Meal 5 (Snacks): Banana + chickpeas salad + Whey protein shake\n6.) Meal 6 (Dinner): Small bowl of brown rice or quinoa + Curd + Soya chunks curry\n\n\n"
+            android:layout_marginTop="4800dp"
+            android:textAlignment="center"
+            />
+    </RelativeLayout>
+
+</ScrollView>
